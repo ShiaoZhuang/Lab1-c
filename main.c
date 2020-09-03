@@ -1,3 +1,7 @@
+//Author: Shiao Zhuang sqz5328@psu.edu
+//Collaborator: Zhihong Jiang zbj5088@psu.edu
+//Collaborator: Yeman Xu ybx5148@psu.edu
+
 #include <stdio.h>
 #include <readline/readline.h>
 #include <stdlib.h>
